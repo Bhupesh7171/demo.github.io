@@ -1297,7 +1297,7 @@ footer h3::before {
         visibility: hidden;
     }
     .hero-it-solution {
-        padding-top: 10px !important;
+        padding-top: 37px !important;
     }
     .section-inset-1 {
         padding: 60px 0 !important;
@@ -1310,6 +1310,9 @@ footer h3::before {
     }
     .cyber-cta {
         margin-top: 0px !important;
+    }
+    .contact_banner {
+        background-position-x: left !important;
     }
     .footer-nav-list,
     .team-single-wrap h2::before {
@@ -1335,6 +1338,10 @@ footer h3::before {
     }
     .trellis-department-icons {
         display: none;
+    }
+    .fusion-parallax-mob {
+        padding-top: 60px !important;
+        padding-bottom: 60px !important;
     }
 }
 
@@ -1523,6 +1530,7 @@ footer h3::before {
     margin: 2.7rem 0 0rem;
     font-size: 1.25rem;
     font-weight: 500;
+    color: #f067a6;
 }
 
 .trellis-widget-menu-cards .menu-cards-header {
