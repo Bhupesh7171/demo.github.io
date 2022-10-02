@@ -1311,8 +1311,20 @@ footer h3::before {
     .cyber-cta {
         margin-top: 0px !important;
     }
-    .contact_banner {
+    .contact_banner_gallery {
         background-position-x: left !important;
+    }
+    .faq-accordion .accordion-body {
+        color: black;
+    }
+    .mob_blog {
+        flex-direction: column-reverse;
+    }
+    .blog-details.ptb-60 {
+        padding-top: 0 !important;
+    }
+    .faq-section .container-fluid::before {
+        opacity: .37;
     }
     .footer-nav-list,
     .team-single-wrap h2::before {
