@@ -1355,6 +1355,9 @@ footer h3::before {
         padding-top: 60px !important;
         padding-bottom: 60px !important;
     }
+    .contact-us-img iframe {
+        width: 100% !important;
+    }
 }
 
 .owl-carousel .owl-item img {
